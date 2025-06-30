@@ -1,0 +1,40 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>🚀 Welcome to Crypto Dev Hub!</h1>
+			<p>
+				Your premier destination for blockchain development insights, smart contract tutorials, and cutting-edge crypto technology. 
+				Dive deep into the world of decentralized applications, explore new blockchains, and master the art of building the future.
+			</p>
+			<p>
+				From <strong>Move programming on Sui</strong> to Solidity mastery, from DeFi protocols to NFT innovations, 
+				we cover everything you need to become a proficient blockchain developer.
+			</p>
+			<h2>🔥 What You'll Find Here:</h2>
+			<ul>
+				<li><strong>Move Programming:</strong> Deep dives into Sui's Move language and ecosystem</li>
+				<li><strong>Smart Contract Development:</strong> Best practices for Ethereum, Solana, and more</li>
+				<li><strong>DeFi Protocols:</strong> Building decentralized finance applications</li>
+				<li><strong>Blockchain Fundamentals:</strong> Understanding consensus, cryptography, and distributed systems</li>
+				<li><strong>Developer Tools:</strong> Reviews and tutorials for the latest blockchain dev tools</li>
+			</ul>
+			<p>
+				Ready to start your journey? Check out our latest posts below or explore our comprehensive guides 
+				to get started with blockchain development today!
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
