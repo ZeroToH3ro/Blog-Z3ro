@@ -1,7 +1,7 @@
 // Place any global data in this file.
 // You can import this data from anywhere in your site by using the `import` keyword.
 
-export const SITE_TITLE = 'Crypto Dev Hub';
+export const SITE_TITLE = "Z3ro's Blog";
 export const SITE_DESCRIPTION = 'Your go-to source for blockchain development, smart contracts, and crypto insights. Exploring Move, Solidity, and the future of decentralized applications.';
 
 // Social Links

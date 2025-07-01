@@ -2,7 +2,7 @@
 title: 'DeFi Development Fundamentals: Building Your First AMM'
 description: 'Learn how to build an Automated Market Maker (AMM) from scratch, understanding the core concepts of DeFi and liquidity provision'
 pubDate: 'June 25 2025'
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/defi.png'
 ---
 
 # DeFi Development Fundamentals: Building Your First AMM
