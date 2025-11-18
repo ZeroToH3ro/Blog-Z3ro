@@ -2,7 +2,7 @@
 title: 'Smart Contract Security: Essential Patterns and Common Vulnerabilities'
 description: 'Master smart contract security with real-world examples, security patterns, and tools to prevent costly exploits in your DeFi applications'
 pubDate: 'June 20 2025'
-heroImage: '../../assets/security.png'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 # Smart Contract Security: Essential Patterns and Common Vulnerabilities
