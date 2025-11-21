@@ -2,7 +2,7 @@
 title: 'Getting Started with Move Programming on Sui Blockchain'
 description: 'A comprehensive introduction to Move programming language on Sui blockchain, covering fundamentals, setup, and your first smart contract'
 pubDate: 'June 30 2025'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-2.jpg'
 ---
 
 # Getting Started with Move Programming on Sui Blockchain

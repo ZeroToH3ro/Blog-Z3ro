@@ -2,7 +2,7 @@
 title: 'Welcome to Crypto Dev Hub: Your Journey into Blockchain Development'
 description: 'Start your blockchain development journey with our comprehensive guides covering Move, Solidity, DeFi protocols, and the latest crypto innovations'
 pubDate: 'June 15 2025'
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
 # Welcome to Crypto Dev Hub: Your Journey into Blockchain Development
