@@ -10,9 +10,7 @@ tags:
   - meta
 ---
 
-# The Rise and Fall of Diem: A Deep Analysis of Why Facebook's Blockchain Failed
-
-## Executive Summary
+# The Rise and Fall of Diem
 
 Between 2019 and 2022, Facebook (Meta) invested over $200 million into Diem (formerly Libra), a blockchain project that promised to bank the unbanked and revolutionize global payments. Despite technical competence, strong engineering talent, and initial backing from financial giants, the project collapsed. This analysis examines the multifaceted reasons for this failure and extracts crucial lessons for the blockchain industry.
 
