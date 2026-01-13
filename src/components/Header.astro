@@ -5,7 +5,12 @@ import { SITE_TITLE, GITHUB_URL, TWITTER_URL } from "../consts";
 
 <header>
   <nav>
-    <h2><a href="/">{SITE_TITLE}</a></h2>
+    <h2>
+      <a class="logo-link" href="/">
+        <img src="/logo-walrus.svg" alt={`${SITE_TITLE} logo`} width="36" height="36" />
+        <span class="sr-only">{SITE_TITLE}</span>
+      </a>
+    </h2>
     <div class="internal-links">
       <HeaderLink href="/">Home</HeaderLink>
       <HeaderLink href="/blog">Blog</HeaderLink>
@@ -43,6 +48,14 @@ import { SITE_TITLE, GITHUB_URL, TWITTER_URL } from "../consts";
   h2 {
     margin: 0;
     font-size: 1em;
+  }
+  .logo-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+  }
+  .logo-link img {
+    display: block;
   }
 
   h2 a,
